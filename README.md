@@ -4,7 +4,7 @@ Hi 👋 My name is James Hunter
 Front End Developer
 -------------------
 
-* 🌍  I'm based in Welland
+* 🌍  I'm based in Welland, ON
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Anything
 
