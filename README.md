@@ -5,7 +5,7 @@ Front End Developer
 -------------------
 
 * 🌍  I'm based in Welland, ON
-* 🧠  I'm learning React
+* 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Anything
 
 ### Skills
