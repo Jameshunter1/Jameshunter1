@@ -1,7 +1,7 @@
 Hi 👋 My name is James Hunter
 =============================
 
-Front End Developer
+Data Analyst
 -------------------
 
 * 🌍  I'm based in Welland, ON
