@@ -28,7 +28,7 @@ Hi 👋 My name is James Hunter
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_macos_bigsur_icon_189957.png" width="50" height="50"/></a>
 <a href="https://www.aws.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50"/> </a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://photos5.appleinsider.com/gallery/53113-106400-Linux-xl.jpg" width="50" height="50"/> </a> 
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://github.com/Jameshunter1/Jameshunter1/assets/90528783/95b4c12c-0ed4-464f-8027-539ec1b442f3" width="50" height="50"/> </a> 
 
 # Badges
 
