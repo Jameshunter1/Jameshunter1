@@ -1,8 +1,6 @@
 Hi 👋 My name is James Hunter
 =============================
 
-# Data Analyst
-
 
 * 🌍  I'm based in Welland, ON
 * 🧠  I'm learning Python
