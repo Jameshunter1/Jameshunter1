@@ -1,46 +1,43 @@
-Hi 👋 My name is James Hunter
-=============================
+# James Hunter
+**Lead Systems Engineer | Vectis Database Core**
 
+I specialize in database internals, high-performance storage engines, and system durability. My work focuses on building low-level infrastructure that is mechanically verifiable, simple, and crash-safe.
 
-* 🌍  I'm based in Welland, ON
-* 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on Anything
+* 🌍 **Location:** Welland, ON
+* 🚀 **Current Focus:** Leading development on [Vectis](https://github.com/Jameshunter1/VectorDBMS), a disk-first vector engine.
+* 🛠 **Principles:** Correctness over performance. Simplicity over flexibility. Predictability over cleverness.
 
-# Technologies
+---
 
-### Languages
+## 🏗 Core Expertise
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" /></a>
+### Systems Programming & Databases
+* **Languages:** C++23 (Core Engine), Python (SDKs/Tooling), Rust.
+* **Storage Internals:** ARIES Recovery, WAL implementation, Buffer Pool Management (LRU-K).
+* **Disk I/O:** `O_DIRECT`, Linux `io_uring` pipelines, 32KB page-aligned storage systems.
+* **Vector Search:** SIMD-optimized HNSW indexing and similarity search.
 
-### Frameworks
+### Infrastructure & Environments
+* **Linux:** Kernel-level I/O tuning and resource management.
+* **Cloud:** AWS (S3, EC2, EBS optimization).
+* **Reliability:** CI/CD for systems software, automated durability testing.
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" height="50" alt="React" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="50" height="50" alt="Bootstrap" /></a>
-</p>
+---
 
-### Devops & Cloud Tools
+## 🔭 Featured Project: Vectis
+Vectis is a persistent vector database engine designed for absolute data durability.
+* **32KB Page Unit:** Optimized for NVMe physical sector alignment.
+* **Direct I/O:** Bypasses OS page cache for total buffer pool authority.
+* **Crash Safety:** Strict ARIES-style Write-Ahead Logging.
 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_macos_bigsur_icon_189957.png" width="50" height="50"/></a>
-<a href="https://www.aws.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50"/> </a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://github.com/Jameshunter1/Jameshunter1/assets/90528783/95b4c12c-0ed4-464f-8027-539ec1b442f3" width="50" height="50"/> </a> 
+---
 
-# Badges
+## 📊 Engineering Impact
+![GitHub Stats](./github-metrics.svg)
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/Jameshunter1"><img src="https://github-readme-stats.vercel.app/api?username=Jameshunter1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jameshunter1's GitHub stats" /></a>
+## 📬 Connectivity
+* **Source:** [GitHub](https://www.github.com/jameshunter1)
 
-<a href="http://www.github.com/Jameshunter1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jameshunter1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Jameshunter1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jameshunter1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-# Socials
-
-<p align="left">  <a href="https://www.linkedin.com/in/Jameshunter27" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a>
-<a href="https://www.github.com/jameshunter1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" /></a></p>
-
-
+> "Assume every abstraction is guilty until proven useful."
