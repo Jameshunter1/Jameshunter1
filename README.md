@@ -1,4 +1,3 @@
-<div align="center">
 
 # James Hunter
 
@@ -6,15 +5,19 @@
 
 📍 Welland, ON
 
+**Languages & Frameworks**
+
 ![C++20](https://img.shields.io/badge/C%2B%2B20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Debian](https://img.shields.io/badge/Debian_13-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
+**Systems & Infrastructure**
+
+![Debian](https://img.shields.io/badge/Debian_13-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server_2025-0078D4?style=for-the-badge)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server_2025-0078D4?style=for-the-badge)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge)
@@ -22,7 +25,6 @@
 ![Wazuh](https://img.shields.io/badge/Wazuh-3585F9?style=for-the-badge&logo=wazuh&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=white)
 
-</div>
 
 ```cpp
 // james.hpp
@@ -31,9 +33,11 @@
 
 struct James {
     static constexpr auto location  = "Welland, ON";
-    static constexpr auto building  = "ad-homelab";              // a company network, from bare VMs up
-    static constexpr auto completed = std::array{ "vector-db",   // WAL · ARIES recovery · O_DIRECT
-                                                  "fitness-app"};// React Native, cross-platform
+    static constexpr auto building  = "Jameshunter1/ad-homelab";           // ↓ linked below
+    static constexpr auto completed = std::array{
+        "Jameshunter1/vector-db-design",   // WAL · ARIES recovery · O_DIRECT — public design doc
+        "fitness-app",                     // React Native, cross-platform
+    };
     static constexpr auto rule      = "assume every abstraction is guilty until proven useful";
 };
 ```
@@ -70,8 +74,8 @@ A small corporate network built from scratch in VirtualBox — real zones, real 
 
 ## ✅ Completed · Production-Ready
 
-* **Vector database engine** — disk-first storage: write-ahead logging, ARIES-style recovery, direct I/O *(private repo)*
-* **Fitness mobile app** — cross-platform, built with React Native *(private repo)*
+* **Vector database engine** — disk-first storage: write-ahead logging, ARIES-style recovery, direct I/O. Code is private, but the full design is public: **[architecture writeup →](https://github.com/Jameshunter1/vector-db-design)**
+* **Fitness mobile app** — cross-platform, built with React Native · demo available on request
 
 ## 📊 Activity
 
